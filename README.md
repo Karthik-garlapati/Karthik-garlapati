@@ -1,5 +1,16 @@
 # 💫 About Me:
-About Me:<br><br>🧑‍💻 I'm currently working on<br>AI-powered applications, full-stack web projects, and an AI-assisted legacy<br>code migration & verification platform.<br><br>🧑‍🤝‍🧑 I'm looking to collaborate on<br>AI/ML, Generative AI, full-stack development, open-source projects, and<br>innovative software engineering projects.<br><br>🤝 I'm looking for help with<br>Building scalable AI applications, system design, cloud deployment, and<br>improving production-ready software architecture.<br><br>🌱 I'm currently learning<br>Data Structures & Algorithms, Generative AI, LLMs, AI Agents, System Design,<br>Cloud Computing, and Advanced Full-Stack Development.<br><br>💬 Ask me about<br>Java, Python, DSA, AI/ML, Generative AI, React, TypeScript, Supabase, APIs,<br>and building AI-powered applications.<br><br>⚡ Fun fact<br>I enjoy turning random ideas into working software — especially when AI can<br>make the idea 10× more interesting. 🚀
+
+About Me:<br><br>🧑‍💻 I'm currently working on<br>AI-powered applications, full-stack web projects, and an AI-assisted legacy<br>code migration & verification platform.<br><br>
+
+🧑‍🤝‍🧑 I'm looking to collaborate on<br>AI/ML, Generative AI, full-stack development, open-source projects, and<br>innovative software engineering projects.<br><br>
+
+🤝 I'm looking for help with<br>Building scalable AI applications, system design, cloud deployment, and<br>improving production-ready software architecture.<br><br>
+
+🌱 I'm currently learning<br>Data Structures & Algorithms, Generative AI, LLMs, AI Agents, System Design,<br>Cloud Computing, and Advanced Full-Stack Development.<br><br>
+
+💬 Ask me about<br>Java, Python, DSA, AI/ML, Generative AI, React, TypeScript, Supabase, APIs,<br>and building AI-powered applications.<br><br>
+
+⚡ Fun fact<br>I enjoy turning random ideas into working software — especially when AI can<br>make the idea 10× more interesting. 🚀
 
 
 ## 🌐 Socials:
