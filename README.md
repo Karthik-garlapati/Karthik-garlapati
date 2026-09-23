@@ -6,9 +6,12 @@ About Me:<br><br>🧑‍💻 I'm currently working on<br>AI-powered applications
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/g-karthik-492482281) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gkarthik1015@gmail.com)
 
 <!-- Snake Game Repo -->
-
-
-  ![Snake animation](https://raw.githubusercontent.com/Karthik-garlapati/Karthik-garlapati/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
+</div>
 
 
 
